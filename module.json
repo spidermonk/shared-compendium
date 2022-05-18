@@ -164,5 +164,6 @@
   ],
 
   "url": "https://github.com/spidermonk/shared-compendium",
-  "download": "https://github.com/spidermonk/shared-compendium/archive/refs/tags/v1.zip"
+  "manifest": "https://github.com/spidermonk/shared-compendium/releases/download/v1/module.json",
+  "download": "https://github.com/spidermonk/shared-compendium/releases/download/v1/My-Shared-Compendia.zip"
 }
