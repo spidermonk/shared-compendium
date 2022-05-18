@@ -1,0 +1,167 @@
+{
+  "name": "My-Shared-Compendia",
+  "title": "My Shared Compendia",
+  "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",
+  "author": "sts",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "3.2.1",
+  "packs": [
+    {
+      "name": "actors",
+      "label": "X-Actors Compendium",
+      "path": "packs/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "monsters",
+      "label": "X-Monsters Compendium",
+      "path": "packs/monsters.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "X-Magic Items Compendium",
+      "path": "packs/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment",
+      "label": "X-Gear Equipment Compendium",
+      "path": "packs/equipment.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "armor",
+      "label": "X-Gear Armor & Shields Compendium",
+      "path": "packs/armor.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "weapons",
+      "label": "X-Gear Weapons Compendium",
+      "path": "packs/weapons.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "mounts",
+      "label": "X-Gear Mounts & Vehicles Compendium",
+      "path": "packs/mounts.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "spellcaster",
+      "label": "X-Gear Spellcaster Compendium",
+      "path": "packs/spellcaster.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "tools",
+      "label": "X-Gear Tools & Instruments Compendium",
+      "path": "packs/tools.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "loot",
+      "label": "X-Gear Valuables Compendium",
+      "path": "packs/loot.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "munitions",
+      "label": "X-Gear Munitions Compendium",
+      "path": "packs/munitions.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "X-Spells Compendium",
+      "path": "packs/spells.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "races",
+      "label": "X-Races Compendium",
+      "path": "packs/races.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "race-traits",
+      "label": "X-Race Traits Compendium",
+      "path": "packs/races-traits.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "X-Classes Compendium",
+      "path": "packs/classes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "class-features",
+      "label": "X-Class Features Compendium",
+      "path": "packs/class-features.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "feats",
+      "label": "X-Feats Compendium",
+      "path": "packs/feats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "X-Scenes Compendium",
+      "path": "packs/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "JournalEntrys",
+      "label": "X-Journals Compendium",
+      "path": "packs/journalentry.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "X-Macros Compendium",
+      "path": "packs/macro.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Macro"
+    },
+    {
+      "name": "rolltable",
+      "label": "X-Roll Tables Compendium",
+      "path": "packs/rolltable.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "playlist",
+      "label": "X-Playlist Compendium",
+      "path": "packs/playlist.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Playlist"
+    }
+  ],
+
+  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+}
