@@ -163,5 +163,6 @@
     }
   ],
 
-  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+  "url": "https://github.com/spidermonk/shared-compendium",
+  "download": "https://github.com/spidermonk/shared-compendium/archive/refs/tags/v1.zip"
 }
